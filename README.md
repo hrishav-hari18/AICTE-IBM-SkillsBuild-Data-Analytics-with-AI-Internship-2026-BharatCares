@@ -1,7 +1,7 @@
 # Delivery & Logistics Performance Analytics Dashboard
 
 **Author:** Hrishav Hari 
-**Type:** Business / Data Analytics Internship Project  
+**Type:** Data Analytics Internship Project  
 **Domain:** Logistics & Supply Chain Operations
 
 ---
